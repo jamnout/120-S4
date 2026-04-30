@@ -6,6 +6,7 @@ This is a placeholder text.
 ## Our favorite games
 This is another placeholder text.
 `Apexs
+- bayonetta
 
 ## How to build
 This is the final placeholder text.
