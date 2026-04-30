@@ -10,3 +10,4 @@ This is another placeholder text.
 This is the final placeholder text.
 
 ## How to run
+This is a test
