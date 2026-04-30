@@ -5,11 +5,10 @@ This is a placeholder text.
 
 ## Our favorite games
 This is another placeholder text.
-`Apexs
-- bayonettae
+Apexs
 
 ## How to build
 This is the final placeholder text.
-
+This is how to build   
 ## How to run
 This is a test
