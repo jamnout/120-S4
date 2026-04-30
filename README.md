@@ -5,7 +5,7 @@ This is a placeholder text.
 
 ## Our favorite games
 This is another placeholder text.
-`Apex
+`Apexs
 
 ## How to build
 This is the final placeholder text.
