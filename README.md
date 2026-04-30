@@ -8,3 +8,5 @@ This is another placeholder text.
 
 ## How to build
 This is the final placeholder text.
+
+## How to run
