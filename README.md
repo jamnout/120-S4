@@ -2,6 +2,7 @@
 
 ## About our project
 This is a placeholder text.
+This is another sentence!
 
 ## Our favorite games
 This is another placeholder text.
